@@ -1,6 +1,6 @@
 # GPT-Trainer-v2
 
-Trainerv2 is a Python script that trains a  GPT language model. This script was developed solely by Hello Security LLC and Adam Rivers, and is currently in the early stages of development and testing. As such, users should be aware that there may be bugs, errors, or poor performance. Please note I am currently working speedily to make this training program relevant to GPT v3.5 turbo.
+Trainerv2 is a Python script that trains a  GPT language model. This script was developed solely by Hello Security LLC and Adam Rivers, and is currently in the early stages of development and testing. As such, users should be aware that there may be bugs, errors, or poor performance. Please note I am currently working speedily to make this training program relevant to GPT v3.5 turbo where applicable.
 
 ## Functions
 
