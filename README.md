@@ -57,4 +57,4 @@ To use the Trainerv2 script, follow these instructions:
 5. Run the script using Python: `python trainerv2.py`
 6. Once the script has finished training the model, you can generate responses to user input using the `integrate_chatgpt_model()` function. Update the `input_text` variable in the script to specify the user input.
 
-Users are encouraged to contribute to the development of the Trainerv2 script by forking the repository and submitting pull requests with improvements or bug fixes. Please
+Users are encouraged to contribute to the development of the Trainerv2 script by forking the repository and submitting pull requests with improvements or bug fixes.
