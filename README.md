@@ -17,7 +17,7 @@ The script provides the following functions:
 
 ## Usage
 
-1. Ensure that `data.txt` is located in the same directory as the script.
+1. Ensure that `data.txt` is located in the same directory as the script. Each line should be seperated from the next and contain a dataset of specified training the ai should study.
 2. To train the GPT-2 language model, run the script with no arguments: `python GPT-Trainer-v2.py`. This will split the data into training and validation sets, train the model using default parameters, and save the resulting configuration to `config.json` and the finetuned model to a directory called `output`.
 3. To load the finetuned model and generate a response to input text, use the following code:
 
