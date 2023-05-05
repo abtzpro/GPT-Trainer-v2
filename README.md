@@ -32,4 +32,4 @@ print("Generated response:", response)
 
 ## Developed By
 
-This script was developed by Adam Rivers and Hello Security LLC with the support of OpenAI (I am still waiting on a job offer :( sniffle).
+This script was developed by Adam Rivers and Hello Security LLC. (OpenAI I am still waiting on a job offer :( sniffle).
